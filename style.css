@@ -78,7 +78,7 @@ input::placeholder {
     width: 93.98px;
   }
 }
-@media (max-width: 430px) {
+@media (max-width: 765px) {
   .form-container{
     flex-direction: column-reverse;
   }
